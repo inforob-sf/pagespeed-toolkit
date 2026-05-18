@@ -1,0 +1,19 @@
+# Audit reports (contain site-specific data)
+pagespeed-report.json
+var/pagespeed-report.json
+**/pagespeed-report.json
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*.swo

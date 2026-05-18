@@ -1,0 +1,12 @@
+# Add these bindings to your config/services.yaml
+# They wire the PageSpeed API key and site URL from .env variables.
+
+services:
+    App\Service\PageSpeedService:
+        arguments:
+            $apiKey: '%env(PAGESPEED_API_KEY)%'
+
+    App\Command\PageSpeedAuditCommand:
+        arguments:
+            $siteUrl: '%env(SITE_URL)%'
+            $projectDir: '%kernel.project_dir%'
