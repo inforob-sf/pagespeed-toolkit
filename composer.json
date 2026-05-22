@@ -1,9 +1,9 @@
 {
-    "name": "inforob/pagespeed-toolkit",
+    "name": "inforob-sf/pagespeed-toolkit",
     "type": "composer-plugin",
     "description": "Google PageSpeed Insights audit and AI-powered fix toolkit for Symfony projects",
     "keywords": ["symfony", "pagespeed", "lighthouse", "core-web-vitals", "performance", "seo"],
-    "homepage": "https://github.com/inforob/claude-pagespeed-toolkit",
+    "homepage": "https://github.com/inforob-sf/pagespeed-toolkit",
     "license": "MIT",
     "authors": [
         {
