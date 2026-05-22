@@ -1,7 +1,7 @@
-# inforob/pagespeed-toolkit
+# inforob-sf/pagespeed-toolkit
 
-[![Tests](https://github.com/robertomanchado/pagespeed-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/robertomanchado/pagespeed-toolkit/actions/workflows/tests.yml)
-[![codecov](https://codecov.io/gh/robertomanchado/pagespeed-toolkit/branch/master/graph/badge.svg)](https://codecov.io/gh/robertomanchado/pagespeed-toolkit)
+[![Tests](https://github.com/inforob-sf/pagespeed-toolkit/actions/workflows/tests.yml/badge.svg)](https://github.com/inforob-sf/pagespeed-toolkit/actions/workflows/tests.yml)
+[![codecov](https://codecov.io/gh/inforob-sf/pagespeed-toolkit/branch/master/graph/badge.svg)](https://codecov.io/gh/inforob-sf/pagespeed-toolkit)
 [![PHP](https://img.shields.io/badge/PHP-8.2%2B-blue)](https://www.php.net)
 [![Symfony](https://img.shields.io/badge/Symfony-6.4%20%7C%207.x%20%7C%208.x-black)](https://symfony.com)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
@@ -13,7 +13,7 @@ It combines a **Symfony Bundle** with a console command that generates audit rep
 ## Symfony Installation
 
 ```bash
-composer require inforob/pagespeed-toolkit
+composer require inforob-sf/pagespeed-toolkit
 ```
 
 That's it. The package automatically:
